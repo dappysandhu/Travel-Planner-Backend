@@ -136,7 +136,3 @@ The backend uses JWT for secure authentication. Users must register and login to
 © 2025 Travel Planner Team. All rights reserved.
 
 This is a private project. Unauthorized copying, modification, distribution, or use of this software, via any medium, is strictly prohibited without explicit permission from the project owners.
-
-## Contact
-
-Project Link: [https://github.com/yourusername/travel-planner-backend](https://github.com/yourusername/travel-planner-backend)
